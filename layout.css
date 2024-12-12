@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+  }
+body {
+    background-color: #ebeae5;
+}
+
+#btn {
+    background-color: #ebeae5;
+    border: solid 1.5px #295792;
+}
+
+#mainhp, #logouthp {
+    background-color: #ebeae5;
+    border: solid 2px #295792;
+    padding: 5px;
+    text-align: center;
+    font-family:sans-serif;
+    color: #295792;
+    text-decoration: none;
+}
+.header{
+    background-color: #ebeae5;
+}
+img{
+    margin: 0px 390px;
+}
+button{
+    background-color: #295792;
+    width: 9%;
+    height:5%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size:15px;
+    color: #fff;
+    font-weight: bold;
+    border-color: #295792;
+
+}
+.loginbtn{
+    background-color: #ebeae5; 
+    width: 25%;
+    height:15%;
+    color: #295792;
+    font-weight: bold;
+    border-color: #ebeae5;
+}
+.btn{
+    background-color: #295792; 
+    width: 20%;
+    height:15%;
+    color: #fff;
+    font-weight: bold;
+    border-color: #295792;
+}
+.updatebtn{
+    background-color: #295792; 
+    width: auto;
+    height:15%;
+    color: #fff;
+    font-weight: bold;
+    border-color: #295792;
+}
+.searchbtn{
+    background-color: #ebeae5; 
+    width: auto;
+    height:15%;
+    color: #295792;
+    font-weight: bold;
+    border-color: #ebeae5;
+}
+
+.menu
+{
+	background: #295792;
+	text-align:center;
+    font-size: large;
+    
+}
+.menu ul
+{
+	display: inline-flex;
+	list-style:none;
+	color: #fff;
+}
+.menu ul li
+{
+    
+	width :130px;
+	margin: 15px;
+	padding: 15px;
+}
+.menu ul li a
+{	
+	text-decoration: none;
+	color: #fff;
+}
+
+h2{
+    color: #295792;
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+#login{
+    color: #ebeae5;
+    padding: 0px 600px;
+    font-size: large;
+    height: 165px;
+    width:auto;
+    background-color: #295792;
+    border: solid 2px #ebeae5;
+    
+}
+
+
